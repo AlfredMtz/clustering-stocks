@@ -1,6 +1,6 @@
-# Stock Clustering
+# Stocks Clustering
 
-Stocks grouping tool for general investors interested in analyzing risk levels and factors between stocks while trying to build a well diversify portafolio of securities.
+Stock grouping tool for general investors interested in analyzing risk levels and factors between stocks while trying to build a well diversify portafolio of securities.
 
 
 ## Installation
